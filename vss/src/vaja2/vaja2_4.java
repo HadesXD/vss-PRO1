@@ -1,4 +1,6 @@
 /*
+ * Vaja 2_4
+ * 
  * Program  za osebo izpiše ali ima premajhno telesno težo ali ima normalno telesno težo ali 
  * ima preveliko telesno težo.
  * Uporabnik vnese višino v metrih in telesno težo v kilogramih.

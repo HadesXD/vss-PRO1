@@ -1,4 +1,6 @@
 /*
+ * Vaja3_1
+ * 
  * Program za deset vnesenih celih ätevil izpiäe ätevilo pozitivnih in ätevilo negativnih ätevil.
  */
 

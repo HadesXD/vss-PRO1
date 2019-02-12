@@ -1,5 +1,6 @@
 /*
  * Vaja1_3
+ * 
  * Program za izračun vsote dveh vnesenih celih števil.
  * Vpiši dve celi števili: 45 78
  * Prvo število je: 45

@@ -1,5 +1,6 @@
 /* 
  * Vaja1_5
+ * 
  * Program prebere celoštevilčni vrednosti dveh spremenljivk x in y.
  * Program zamenja vrednosti spremenljivk in izpiše nove vrednosti na zaslon.
  * Vpiši dve celi stevili: 45 56

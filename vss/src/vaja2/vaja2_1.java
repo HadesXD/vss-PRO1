@@ -1,7 +1,6 @@
 /*
-
-
  * Vaja2_1
+ * 
  * Program, ki za dve vneseni realni števili izpiše vrednosti 
  * relacijskih izrazov: >, >=, <, <=, !=,  ==.
  */

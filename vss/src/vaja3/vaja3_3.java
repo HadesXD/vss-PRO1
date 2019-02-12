@@ -1,4 +1,6 @@
 /*
+ * Vaja3_3
+ * 
  * Program s pomočjo zvezdic izriŠe pravokotni trikotnik.
  * Uporabnik vnese višino trikotnika (Število vrstic)
  */

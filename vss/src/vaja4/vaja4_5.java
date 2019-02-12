@@ -1,4 +1,6 @@
 /*
+ * Vaja4_5
+ * 
  * Izračun vsote N členov zaporedja i * (i-1); i = 1 .. N
  * Izpis vsebuje posamezne člene zaporedja.
  * Uporaba zanke while.Â 

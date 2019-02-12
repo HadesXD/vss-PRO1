@@ -1,9 +1,10 @@
 /*
  * Vaja2_2
+ * 
  * Program, ki za tri vnesena realna števila preveri, če velja  tranzitivnost: 
  * x > y    in   y > z   sledi (=>)  x > z
  * Vnesi tri števila (x y z): 67 56 54
- * 67>56 in 67>54        =>        67>54: Pravilo tranzitivnosti velja.
+ * 67>56 in 67>54 => 67>54: Pravilo tranzitivnosti velja.
  */
 
 package vaja2;

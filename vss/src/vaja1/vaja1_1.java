@@ -1,7 +1,7 @@
 /*
  * Vaja1_1
+ * 
  * Program na zaslon izpiše obvestilo "To je prvi primer na vajah."
- * To je prvi primer na vajah.
  */
 
 package vaja1;

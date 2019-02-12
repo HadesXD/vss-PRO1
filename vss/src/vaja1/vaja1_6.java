@@ -1,5 +1,6 @@
 /*
  * Vaja1_6
+ * 
  * Program prebere starost in težo treh študentov in izpiše povprečno starost in povprečno težo.
  * Vpiši starost in težo 1. študenta: 20 75
  * Vpiši starost in težo 2. študenta: 22 73

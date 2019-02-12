@@ -1,4 +1,6 @@
 /*
+ * Vaja5_2
+ * 
  * Izpis Števil iz območja odStevila do DoStevila, ki so deljiva s tri ali pet.
  * Primer izvajanja:
  * Od Števila: 10

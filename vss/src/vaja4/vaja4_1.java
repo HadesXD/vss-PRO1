@@ -1,4 +1,6 @@
 /*
+ * Vaja4_1
+ * 
  * Program za izračun fakultete vnesenega celega Števila.
  * Število vnese uporabnik.
  * Izračun fakultete se izvaja dokler uporabnik na vpraŠanje "ŽeliŠ nadaljevati (D/N)?" ne odgovori z "N"

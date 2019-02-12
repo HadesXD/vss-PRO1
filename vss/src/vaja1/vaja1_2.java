@@ -1,5 +1,6 @@
 /*
  * Vaja1_2
+ * 
  * Program na zaslon izpiše obvestilo.
  * Ime: <Vaše ime npr. Marko>
  * Priimek: <Vaš priimek npr. Koren>

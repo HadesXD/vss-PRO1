@@ -1,4 +1,6 @@
 /*
+ * Vaja3_2
+ * 
  * Program s pomočjo zvezdic izriŠe pravokotnik dimenzij 
  * a (Število stolpcev) in b (Število vrstic).
  * Dimenzije vnese uporabnik.

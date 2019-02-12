@@ -1,4 +1,5 @@
 /*
+ * Vaja4_4
  * Frekvenca pojavitev posameznih ocen Študentov
  * Uporabnik vnaŠa ocene Študentov dokler ne vnese 0.
  * Program določi in izpiŠe frekvence pojavitev posameznih ocen

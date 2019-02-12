@@ -1,4 +1,5 @@
 /*
+ * Vaja4_3
  * Izračun obresti
  * Uporabnik vnese začetno stanje glavnice, obrestno mero (letno) in Število let.
  * Program po letih izpiŠe leto in stanje v tistem letu.

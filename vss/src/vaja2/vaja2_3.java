@@ -1,5 +1,6 @@
 /*
  * Vaja2_3
+ * 
  * Uporabnik za tri študente vnese višino študentov. Program izpiše višine študentov po 
  * vrsti od največjega do najmanjšega.
  * Višina 1. študenta: 180

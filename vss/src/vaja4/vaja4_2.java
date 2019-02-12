@@ -1,4 +1,6 @@
 /*
+ * Vaja4_2
+ * 
  * Program v tabelo nakljucna ustvari 100 naključnih Števil iz intervala od 50 do 500.
  * Program iz tabele izpiŠe Števila, ki so deljiva z 2 ali s 4 ali s 7 po 10 Števil v posamezni vrstici.
  * Na koncu izpiŠe Še Število teh Števil.Â Â 

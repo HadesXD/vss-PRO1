@@ -1,4 +1,6 @@
 /*
+ * Vaja5_1
+ * 
  * PraŠtevilo je naravno Število n > 1, če ima točno dva pozitivna delitelja (faktorja), 
  * Število 1 in samega sebe kot edini prafaktor. Pri tem je 1 edini pravi delitelj tega Števila. 
  * Po definiciji Število 1 ni praŠtevilo. Število 2 je praŠtevilo.
