@@ -1,4 +1,4 @@
-# Learning Java in ŠCV VSŠ
+# Java Examples
 I had Java classes in 2018.
 
 <b>Used:</b>
