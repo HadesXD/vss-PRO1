@@ -1,6 +1,5 @@
-# Learning Java
-I have Java classes starting this year, time to get better at it. <br/>
-So far it's pretty fun. <br/>
+# Learning Java in ŠCV VSŠ
+I had Java classes in 2018.
 
 <b>Used:</b>
 - language: Java
